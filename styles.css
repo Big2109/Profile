@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    background-image: url('img/background.png');
+    background-image: url('background.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -20,7 +20,7 @@ body {
 .return {
     width: 40px;
     height: 40px;
-    background-image: url('icons/circle-left-solid.svg');
+    background-image: url('circle-left-solid.svg');
 }
 
 .content {
@@ -158,15 +158,15 @@ footer {
 }
 
 .year-button-23 {
-    background-image: url('icons/2023.png');
+    background-image: url('2023.png');
 }
 
 .year-button-24 {
-    background-image: url('icons/2024.png');
+    background-image: url('2024.png');
 }
 
 .year-button-25 {
-    background-image: url('icons/2025.png');
+    background-image: url('2025.png');
 }
 
 .title-year {
